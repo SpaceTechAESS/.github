@@ -1,1 +1,1 @@
-# .github
+# Official Organization for SpaceTech
